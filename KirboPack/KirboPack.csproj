@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
     <PropertyGroup>
-        <AssemblyName>tweaks</AssemblyName>
+        <AssemblyName>kirbotweaks</AssemblyName>
         <RootNamespace>ComplexTweaks</RootNamespace>
         <LangVersion>preview</LangVersion>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
